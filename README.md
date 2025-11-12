@@ -7,7 +7,7 @@ This repository contains the data analysis and Jupyter Notebook for my Medium ar
 
 ## 🕹️ The Story Behind This Analysis
 
-This project was born from a personal observation: after a long and joyful history with gaming—from the simple fun of Nintendo in the 90s to the strategic depth of *Ingress* I found my passion waning. Upon returning to console gaming with the highly anticipated *Black Myth: Wu Kong*, I realized I was more captivated by the story's nostalgia than the gameplay itself. This led me to question whether my experience was unique or part of a broader trend.
+This project was born from a personal observation: after a long and joyful history with gaming from the simple fun of Nintendo in the 90s to the strategic depth of *Ingress* I found my passion waning. Upon returning to console gaming with the highly anticipated *Black Myth: Wu Kong*, I realized I was more captivated by the story's nostalgia than the gameplay itself. This led me to question whether my experience was unique or part of a broader trend.
 
 This analysis uses a video game sales dataset spanning 1980 to 2016 to objectively investigate this feeling, exploring the statistical evidence of a cultural and creative shift in the gaming industry.
 
